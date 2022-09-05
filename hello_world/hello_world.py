@@ -2,7 +2,7 @@
 
 
 def hello(name):
-    return "Helo %s" % name
+    return "Hello %s" % name
 
 
 def print_hello(name):
