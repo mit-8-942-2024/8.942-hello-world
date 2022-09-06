@@ -2,7 +2,7 @@
 
 
 def hello(name):
-    return "Hello %s" % name
+    return "Helo %s" % name    # Typo is intentional, for students to fix.
 
 
 def print_hello(name):
